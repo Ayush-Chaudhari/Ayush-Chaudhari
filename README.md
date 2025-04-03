@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **php, reactjs**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

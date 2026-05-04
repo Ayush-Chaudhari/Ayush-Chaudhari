@@ -9,52 +9,86 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝
 ```
 
-### `Ayush Chaudhari ` — A Developer
+### `< Ayush Chaudahri />` — Full Stack Developer · ML Engineer · AI Explorer
 
 *I turn coffee and curiosity into code that actually works (mostly).*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+things+for+the+web+%F0%9F%8C%90;Always+learning+something+new+%F0%9F%93%9A;Open+to+cool+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;ML+Engineer+in+the+making+%F0%9F%A4%96;Diving+deep+into+AI+%F0%9F%A7%A0;Building+things+that+think+%E2%9A%A1;Open+to+cool+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## 🧠 About Me
+
+
+const me = {
+  name: "Ayush Chaudhari",
+  roles: ["Full Stack Developer", "ML Engineer", "AI Explorer"],
+  location: "🌍 Somewhere on Earth",
+  currentlyDiving: ["Machine Learning", "Deep Learning", "LLMs & AI systems"],
+  currentlyLearning: ["System Design", "Model deployment", "whatever looks cool on arxiv"],
+  openTo: ["Internships", "Collabs", "Building things that think"],
+  funFact: "I debug with console.log AND print() 🐛"
+};
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Platforms**
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337733?style=for-the-badge&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
+**Web / Full Stack**
+
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🔮 **Project Alpha** | One-line description of what it does and why it's cool | React · Node · MongoDB | [Live](https://your-link.com) · [Repo](https://github.com/yourname/project) |
-| ⚡ **Project Beta** | One-line description of what it does and why it's cool | Next.js · PostgreSQL | [Live](https://your-link.com) · [Repo](https://github.com/yourname/project) |
-| 🧩 **Project Gamma** | One-line description of what it does and why it's cool | React · Express · Docker | [Live](https://your-link.com) · [Repo](https://github.com/yourname/project) |
+| 🔮 **Digital Literacy Hub
+** | A comprehensive platform for learning digital skills, featuring interactive tutorials, AI-powered chat assistance, and accessibility features. | API's · CSS · HTML5  | [Live](https://ayush-chaudhari.github.io/digital-literacy-course/) · [Repo](https://github.com/Ayush-Chaudhari/digital-literacy-course) |
+| ⚡ **Profile Map Application** | A modern application that displays user profiles with their locations on an interactive map. | Typescript · Mapbox JS · React | [Repo](https://github.com/Ayush-Chaudhari/profile-map) |
+| 🔮 **Movie Application** | A full-stack web application for browsing movies, viewing details, and managing reviews. Built with modern web technologies and a responsive design. | MongoDB · Node.js · CSS3 | [Repo](https://github.com/Ayush-Chaudhari/moviesiterepo) |
+
+**AI / ML**
+
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| 🤖 **Multi-Signal-Classification-System** | Classifying different signals(communications, audio, ECG) based on our trained model. | Python · XGBoost · Scikit-learn | [Repo](https://github.com/Ayush-Chaudhari/Multi-Signal-Classification-System) |
 
 ---
 
@@ -84,7 +118,5 @@
 ---
 
 *"First, solve the problem. Then, write the code."* — John Johnson
-
-![Profile views](https://komarev.com/ghpvc/?username=Ayush-Chaudhari&color=6C63FF&style=flat-square)
 
 </div>

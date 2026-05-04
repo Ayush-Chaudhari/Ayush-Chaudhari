@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝
 ```
 
-### `< Ayush Chaudahri />` — Full Stack Developer · ML Engineer · AI Explorer
+### `< Ayush Chaudhari />` — Full Stack Developer · ML Engineer · AI Explorer
 
 *I turn coffee and curiosity into code that actually works (mostly).*
 
@@ -18,6 +18,26 @@
 </div>
 
 ---
+
+## 🧠 About Me
+
+```javascript
+const me = {
+  name: "Ayush Chaudhari",
+  roles: I will adapt😉
+  location: "🌍 Somewhere on Earth",
+  currentlyDiving: ["Machine Learning", "Deep Learning", "LLMs & AI systems"],
+  currentlyLearning: ["System Design", "Model deployment", "whatever looks cool on arxiv"],
+  openTo: ["Internships", "Collabs", "Building things that think"],
+  funFact: "I debug with console.log AND print() 🐛"
+};
+```
+
+---
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ## 🛠️ Tech Stack
 
@@ -55,6 +75,15 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</td>
+<td valign="center" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="anime coding gif" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 Featured Projects
@@ -63,16 +92,15 @@
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🔮 **Digital Literacy Hub
-** | A comprehensive platform for learning digital skills, featuring interactive tutorials, AI-powered chat assistance, and accessibility features. | API's · CSS · HTML5  | [Live](https://ayush-chaudhari.github.io/digital-literacy-course/) · [Repo](https://github.com/Ayush-Chaudhari/digital-literacy-course) |
-| ⚡ **Profile Map Application** | A modern application that displays user profiles with their locations on an interactive map. | Typescript · Mapbox JS · React | [Repo](https://github.com/Ayush-Chaudhari/profile-map) |
-| 🔮 **Movie Application** | A full-stack web application for browsing movies, viewing details, and managing reviews. Built with modern web technologies and a responsive design. | MongoDB · Node.js · CSS3 | [Repo](https://github.com/Ayush-Chaudhari/moviesiterepo) |
+| 🔮 **Digital Literacy Hub** | A comprehensive platform for learning digital skills, featuring interactive tutorials, AI-powered chat assistance, and accessibility features. | APIs · CSS · HTML5 | [Live](https://ayush-chaudhari.github.io/digital-literacy-course/) · [Repo](https://github.com/Ayush-Chaudhari/digital-literacy-course) |
+| ⚡ **Profile Map Application** | A modern application that displays user profiles with their locations on an interactive map. | TypeScript · Mapbox JS · React | [Repo](https://github.com/Ayush-Chaudhari/profile-map) |
+| 🎬 **Movie Application** | A full-stack web application for browsing movies, viewing details, and managing reviews. Built with modern web technologies and a responsive design. | MongoDB · Node.js · CSS3 | [Repo](https://github.com/Ayush-Chaudhari/moviesiterepo) |
 
 **AI / ML**
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🤖 **Multi-Signal-Classification-System** | Classifying different signals(communications, audio, ECG) based on our trained model. | Python · XGBoost · Scikit-learn | [Repo](https://github.com/Ayush-Chaudhari/Multi-Signal-Classification-System) |
+| 🤖 **Multi-Signal Classification System** | Classifying different signals (communications, audio, ECG) based on a trained model. | Python · XGBoost · Scikit-learn | [Repo](https://github.com/Ayush-Chaudhari/Multi-Signal-Classification-System) |
 
 ---
 

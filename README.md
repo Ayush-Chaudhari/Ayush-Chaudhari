@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-
+```javascript
 const me = {
   name: "Ayush Chaudhari",
   roles: ["Full Stack Developer", "ML Engineer", "AI Explorer"],
@@ -31,6 +31,7 @@ const me = {
   openTo: ["Internships", "Collabs", "Building things that think"],
   funFact: "I debug with console.log AND print() 🐛"
 };
+```
 
 
 ---

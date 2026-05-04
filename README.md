@@ -19,22 +19,6 @@
 
 ---
 
-## 🧠 About Me
-
-```javascript
-const me = {
-  name: "Ayush Chaudhari",
-  roles: I will adapt😉
-  location: "🌍 Somewhere on Earth",
-  currentlyDiving: ["Machine Learning", "Deep Learning", "LLMs & AI systems"],
-  currentlyLearning: ["System Design", "Model deployment", "whatever looks cool on arxiv"],
-  openTo: ["Internships", "Collabs", "Building things that think"],
-  funFact: "I debug with console.log AND print() 🐛"
-};
-```
-
----
-
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -105,13 +89,6 @@ const me = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush-Chaudhari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Chaudhari&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
 
 <div align="center">
 

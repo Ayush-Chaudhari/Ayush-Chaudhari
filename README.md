@@ -19,23 +19,6 @@
 
 ---
 
-## 🧠 About Me
-
-```javascript
-const me = {
-  name: "Ayush Chaudhari",
-  roles: ["Full Stack Developer", "ML Engineer", "AI Explorer"],
-  location: "🌍 Somewhere on Earth",
-  currentlyDiving: ["Machine Learning", "Deep Learning", "LLMs & AI systems"],
-  currentlyLearning: ["System Design", "Model deployment", "whatever looks cool on arxiv"],
-  openTo: ["Internships", "Collabs", "Building things that think"],
-  funFact: "I debug with console.log AND print() 🐛"
-};
-```
-
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**

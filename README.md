@@ -85,6 +85,6 @@
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6C63FF&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Ayush-Chaudhari&color=6C63FF&style=flat-square)
 
 </div>

@@ -78,7 +78,7 @@ const me = {
 </td>
 <td valign="center" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="anime coding gif" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpzOGE4Z21idjcwZ3hvNnpldzJkOGVjMTFpZ281MXludGw4YXpsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afPx1UGhOs4d0dvzkI/giphy.gif" width="300" alt="anime coding gif" />
 
 </td>
 </tr>

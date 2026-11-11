@@ -86,15 +86,6 @@
 |--------|-------------|-------|-------|
 | 🤖 **Multi-Signal Classification System** | Classifying different signals (communications, audio, ECG) based on a trained model. | Python · XGBoost · Scikit-learn | [Repo](https://github.com/Ayush-Chaudhari/Multi-Signal-Classification-System) |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ayush-Chaudhari&theme=tokyonight)
-
-</div>
 
 ---
 
